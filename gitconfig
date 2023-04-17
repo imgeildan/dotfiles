@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = balerimge@gmail.com
+	name = imge ildan
